@@ -57,5 +57,28 @@ namespace Pratique
             get { return telephone; }
             set { telephone = value; }
         }
+
+        //constructeur initial
+        public Agent()
+        {
+
+        }
+        //constructeur de suppression
+        public Agent(int id)
+        {
+            this.IdAgent = id;
+        }
+        //constructeur de modification et enregistrement
+        public Agent(int id, string n, string postnom, string pre, char g, string gr, string telephone)
+        {
+            this.IdAgent = id;
+            this.Nom = n;
+            this.postnom = postnom;
+            this.prenom = pre;
+            this.genre = g;
+            this.grade = gr;
+            this.telephone = telephone;
+
+        }
     }
 }
