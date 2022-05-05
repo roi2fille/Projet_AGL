@@ -44,6 +44,12 @@ namespace Pratique
             this.PrixArt = p;
         }
 
+        //constructeur de destruction
+        public Article(string id)
+        {
+            this.IdArt = id;
+        }
+
 
     }
 }
