@@ -1,2 +1,3 @@
 C:\Users\Christelle\Desktop\pratiqueL2Csi\projet_AGL\Pratique\Pratique\bin\Debug\Pratique.exe.config
 C:\Users\Henockl\Desktop\gGitHub\projet_AGL\Pratique\Pratique\bin\Debug\Pratique.exe.config
+C:\Users\Christelle\Desktop\TpChristelle\projet_AGL\Pratique\Pratique\bin\Debug\Pratique.exe.config
