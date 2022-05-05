@@ -20,6 +20,8 @@ namespace Pratique
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Bonjour");
+            Article art1 = new Article("ART1", "Cahier brouillon", float.Parse("1,9"));
+            MessageBox.Show(art1.PrixArt1.ToString());
         }
     }
 }
